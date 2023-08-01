@@ -1,4 +1,4 @@
-# pymaceuticals-challenge
+# Cancel Animal Study
 
 Analysis
 This code imports necessary libraries and reads from two csv files containing data on mice and the results of a drug study. It then merges the two datasets into one based on their shared Mouse ID.
